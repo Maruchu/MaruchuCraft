@@ -4,6 +4,9 @@
 Copyright(C)[Maruchu](http://maruchu.nobody.jp/ "Maruchu") 2017
 
 
+<img src="http://many.chu.jp/Unity/MaruchuCraft/Sample1.png" alt="マルクラ">　<img src="http://many.chu.jp/Unity/MaruchuCraft/Sample2.gif" alt="マルクラ">
+
+
 
 ## 概要
 学校の授業やプログラミングの教室などで、子どもたちに人気の
