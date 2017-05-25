@@ -72,8 +72,6 @@ public class		MapGenerator		: MonoBehaviour {
 
 			//生成するキューブの種類
 			CubeKind	cubeKind;
-			//生成するキューブのコピー元
-			GameObject	cubePrefab;
 			//生成したキューブのオブジェクト
 			GameObject	cubeObj;
 
