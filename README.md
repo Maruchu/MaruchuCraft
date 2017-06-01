@@ -1,11 +1,11 @@
 # Maruchu Craft
 マイクラっぽい背景ジェネレータ<br>
 
-Copyright(C)[Maruchu](http://maruchu.nobody.jp/ "Maruchu") 2017
+Copyright(C)[Maruchu](https://twitter.com/Maruchu "Maruchu") 2017
 
 
-<img src="http://many.chu.jp/Unity/MaruchuCraft/Sample1.png" alt="マルクラ">
-<img src="http://many.chu.jp/Unity/MaruchuCraft/Sample2.gif" alt="マルクラ">
+<img src="http://many.chu.jp/Unity/2017/MaruchuCraft/Pic/Sample1.png" alt="マルクラ">
+<img src="http://many.chu.jp/Unity/2017/MaruchuCraft/Pic/Sample2.gif" alt="マルクラ">
 
 
 
@@ -30,6 +30,7 @@ W、A、S、Dキー で移動、マウスで左右の見回し、スペースバ
 ## 改造していくと...
 このサンプルを改造していくと、こんな感じにできたりもします。<br>
 
-<img src="http://many.chu.jp/Unity/MaruchuCraft/Sample3.gif" alt="マルクラ">
-<a href="http://many.chu.jp/Unity/MaruchuCraft/">Unity WebGL版での実行画面はコチラ</a>
+<a href="http://many.chu.jp/Unity/2017/MaruchuCraft/">
+<img src="http://many.chu.jp/Unity/2017/MaruchuCraft/Pic/Sample3.gif" alt="マルクラ">
+Unity WebGL版での実行画面はコチラ</a>
 
