@@ -31,6 +31,6 @@ W、A、S、Dキー で移動、マウスで左右の見回し、スペースバ
 このサンプルを改造していくと、こんな感じにできたりもします。<br>
 
 <a href="http://many.chu.jp/Unity/2017/MaruchuCraft/">
-<img src="http://many.chu.jp/Unity/2017/MaruchuCraft/Pic/Sample3.gif" alt="マルクラ">
+<img src="http://many.chu.jp/Unity/2017/MaruchuCraft/Pic/Sample3.gif" alt="マルクラ"><br>
 Unity WebGL版での実行画面はコチラ</a>
 
